@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; align-item:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasY1724&show_icons=true&locale=en&theme=dark" alt="parasyerunkar" style="width: 100%; max-width: 420px; padding:4px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasY1724&show_icons=true&locale=en&layout=compact&theme=dark" alt="parasyerunkar" style="width: 100%; max-width: 350px;" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasY1724&show_icons=true&locale=en&theme=dark" alt="parasyerunkar" style="width: 45%; min-width: 300px; max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasY1724&show_icons=true&locale=en&layout=compact&theme=dark" alt="parasyerunkar" style="width: 40%; min-width: 300px; max-width: 350px;" />
 </div>
