@@ -26,8 +26,4 @@
   <img src="https://skillicons.dev/icons?i=cpp,django,docker,express,figma,flask,git,graphql,java,js,linux,mongodb,mysql,nodejs,postman,python,qt,react,sqlite,tailwind,ts&perline=7" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasY1724&show_icons=true&locale=en&theme=dark" alt="parasyerunkar" style="width: 45%; min-width: 300px; max-width: 400px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ParasY1724&show_icons=true&locale=en&layout=compact&theme=dark" alt="parasyerunkar" style="width: 40%; min-width: 300px; max-width: 350px;" />
-</div>
+
