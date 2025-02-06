@@ -19,13 +19,12 @@
 <div align="center">
   <br/>
   <br/>
-  <br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasY1724" alt="parasyerunkarq" />
+
   
 
 <!-- GitHub Streak Stats -->
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasY1724&theme=dark" alt="parasyerunkar" />
-</p>
 
 <!-- Connect Section -->
 <h1>
