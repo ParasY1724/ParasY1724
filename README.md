@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Paras+Yerunkar&center=true&size=30">
 </h1>
 
-
-
-
 <h3 align="center">Full Stack Developer | Tech Enthusiast | Building Robust Solutions with MERN Stack & DRF</h3>
 
-<div align="center">
+![Paras](https://github.com/ParasY1724/ParasY1724/blob/main/GSSoC24_Stats.png)
 
+
+<div align="center">
   <table>
 <tr>
 <!-- First Column: GitHub Stats and Social Links -->
