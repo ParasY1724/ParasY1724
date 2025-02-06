@@ -50,7 +50,7 @@ Let's Connect!
   </td>
 
   <td align="center" width="90">
-    <a href="mailto:" target="_blank">
+    <a href="mailto:parasyerunkar174@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
     </a>
     <br>Gmail
