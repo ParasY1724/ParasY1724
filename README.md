@@ -36,10 +36,10 @@
       <br>Linkedin
     </td>
     <td align="center" widht=90>
-        <a href="https://twitter.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=twitter" />
+        <a href="https://discordapp.com/users/891594087873003581" target="_blank">
+            <img src="https://skillicons.dev/icons?i=discord" />
         </a>
-        <br>Twitter
+        <br>Discord
     </td>
    <td align="center" widht=90>
         <a href="mailto:" target="_blank">
