@@ -56,36 +56,6 @@
   </tr>
 </table>
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
-
-<table align="" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" widht=90>
-        <a href="https://www.linkedin.com/in/vaibhav-kesarwani-9b5b35252/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <br>Linkedin
-    </td>
-    <td align="center" widht=90>
-        <a href="https://twitter.com/Vaibhav_k__" target="_blank">
-            <img src="https://skillicons.dev/icons?i=twitter" />
-        </a>
-        <br>Twitter
-    </td>
-   <td align="center" widht=90>
-        <a href="mailto:vaibhavkesarwani100.com" target="_blank">
-            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-        </a>
-        <br>Gmail
-    </td>
-    <td align="center" widht=90>
-        <a href="https://vaibhavkesarwani.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-        </a>
-        <br>Portfolio
-    </td>
-  </tr>
-</table>
 
 <!-- Second Column: Languages and Tools -->
 <td valign="top" width="50%">
