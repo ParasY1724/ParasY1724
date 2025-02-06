@@ -7,8 +7,8 @@
 
 <div>
  <img align="right" src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" alt="Profile Image" width="300" />
+  <br/>
 </div>
-<br/>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing the indian pacific" width="30" align="center" />Actively contributing since **2023** 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm a **Student** at **PICT**
@@ -23,6 +23,9 @@
   
 
 <!-- GitHub Streak Stats -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasY1724&theme=dark" alt="parasyerunkar" />
+</p>
 
 <!-- Connect Section -->
 <h1>
@@ -65,7 +68,7 @@ Let's Connect!
 
 <!-- Languages and Tools -->
 <h1>💻 Languages and Tools:</h1>
-<img src="https://skillicons.dev/icons?i=cpp,django,docker,express,figma,flask,git,graphql,java,js,linux,mongodb,mysql,nodejs,postman,python,qt,react,sqlite,tailwind,ts&perline=7" />
+<img src="https://skillicons.dev/icons?i=cpp,django,docker,express,aws,figma,flask,git,graphql,java,js,linux,mongodb,mysql,nodejs,postman,python,qt,react,tailwind,ts&perline=7" />
 
 </div>
 
