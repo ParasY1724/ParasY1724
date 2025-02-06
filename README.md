@@ -15,62 +15,79 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently learning **NextJS** & **DevOps**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> I’m eager to collaborate with **Creative Minds** & **Talented Developers**
 
-
-
 <div align="center">
-  <table>
+  <br/>
+  <br/>
+  <br/>
+  
+
+<!-- GitHub Streak Stats -->
+
+<!-- Connect Section -->
+<h1>
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%;"> 
+Let's Connect!
+</h1>
+
+<!-- Social Links -->
+<table>
 <tr>
-<!-- First Column: GitHub Stats and Social Links -->
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasY1724&theme=dark" alt="parasyerunkar" />
+  <td align="center" width="90">
+    <a href="https://linkedin.com/in/parasyerunkar" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <br>LinkedIn
+  </td>
 
+  <td align="center" width="90">
+    <a href="https://discordapp.com/users/891594087873003581" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" />
+    </a>
+    <br>Discord
+  </td>
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
+  <td align="center" width="90">
+    <a href="mailto:" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
+    </a>
+    <br>Gmail
+  </td>
 
-<table align="" class="table table-dark">
-  <tr bg-dark>
-    <td align="center" widht=90>
-        <a href="https://linkedin.com/in/parasyerunkar" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <br>Linkedin
-    </td>
-    <td align="center" widht=90>
-        <a href="https://discordapp.com/users/891594087873003581" target="_blank">
-            <img src="https://skillicons.dev/icons?i=discord" />
-        </a>
-        <br>Discord
-    </td>
-   <td align="center" widht=90>
-        <a href="mailto:" target="_blank">
-            <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
-        </a>
-        <br>Gmail
-    </td>
-    <td align="center" widht=90>
-        <a href="https://vaibhavkesarwani.vercel.app/" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-        </a>
-        <br>Portfolio
-    </td>
-  </tr>
+  <td align="center" width="90">
+    <a href="https://leetcode.com/u/parasyerunkar174/" target="_blank">
+      <img src="https://lh3.googleusercontent.com/d/1J0ImmE7C4VvpYYcJXZoAfK7WUh8MmUUb" width="50">
+    </a>
+    <br>LeetCode
+  </td>
+</tr>
 </table>
 
-
-<!-- Second Column: Languages and Tools -->
-<td valign="top" width="50%">
-<h3>💻 Languages and Tools:</h3>
+<!-- Languages and Tools -->
+<h1>💻 Languages and Tools:</h1>
 <img src="https://skillicons.dev/icons?i=cpp,django,docker,express,figma,flask,git,graphql,java,js,linux,mongodb,mysql,nodejs,postman,python,qt,react,sqlite,tailwind,ts&perline=7" />
-</td>
-</tr>
-  </table>
 
 </div>
+
+
 
 <br/>
 <div align="center">
-  <h2>🏆 GSSoC'24 Extended Achievements</h2>
-  <img src="https://github.com/ParasY1724/ParasY1724/blob/main/GSSoC24_Stats.png" alt="Paras" width="900" height="450">
+<h1 >🏆 GSSoC'24 Extended Achievements</h1>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://drive.google.com/file/d/1JGxr-hb55Mek_RJ3gaY6ZSxjM7z21Ff_/view">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  </a>
+</div>
+</div>
+<br/>
+<div align="center">
+<h1 >🏆 Hacktoberfest 2024</h1>
 </div>
 
+[![An image of @parasy1724's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parasy1724)](https://holopin.io/@parasy1724)
 
